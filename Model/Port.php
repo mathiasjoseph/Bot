@@ -6,7 +6,7 @@
  * Time: 17:26
  */
 
-namespace Adevis\Component\Bot\Model;
+namespace Miky\Component\Bot\Model;
 
 
 class Port
